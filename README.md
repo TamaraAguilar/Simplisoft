@@ -15,6 +15,7 @@ Simplisoft no solo busca simplificar la vida de los clientes, sino también de l
 - Dashboard para la empresa
 - Sistema de seguimiento para el cliente
 
+![Simplisoft](https://github.com/TamaraAguilar/Simplisoft/assets/125077907/c0392725-7dac-4b2d-92b9-dca7a89baed6)
 
 ## Contribución
 
