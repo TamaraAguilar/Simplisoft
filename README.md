@@ -8,7 +8,7 @@ Tan solo ingresando un número de seguimiento, podrás revisar tanto el diagnós
 De igual forma, presenta un modelo de gestión mediante tickets con el cual las empresas podrán gestionar los equipos ingresados para reparación e ir actualizando su estado.
 Simplisoft no solo busca simplificar la vida de los clientes, sino también de los emprendedores.
 
-[![Opera-Instant-nea-2023-05-18-124647-www-figma-com.png](https://i.postimg.cc/zv6GxCMw/Opera-Instant-nea-2023-05-18-124647-www-figma-com.png)](https://postimg.cc/xNGQCz9q)
+[![Simplisoft.png](https://i.postimg.cc/zv6GxCMw/Simplisoft.png)](https://postimg.cc/xNGQCz9q)
 
 ## Características
 
@@ -22,19 +22,19 @@ Simplisoft no solo busca simplificar la vida de los clientes, sino también de l
 El equipo que trabajó en este proyecto está formado por:
 
 
-Tamara Aguilar @TamaraAguilar
+Tamara Aguilar [@TamaraAguilar](https://github.com/tamaraaguilar)
 
 
-Elvis Pérez @ingelvisperez
+Elvis Pérez [@ingelvisperez](https://github.com/ingelvisperez)
 
 
-Valeria Álvarez @notvale
+Valeria Álvarez [@notvale](https://github.com/notvale)
 
 
-Jesús Garland @jgarlandh
+Jesús Garland [@jgarlandh](https://github.com/jgarlandh)
 
 
-Felipe Mandiola @f1lipw
+Felipe Mandiola [@f1lipw](https://github.com/f1lipw)
 
 
 
